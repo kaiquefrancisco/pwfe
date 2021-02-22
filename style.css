@@ -1,0 +1,30 @@
+.container{
+	display: inline-flex;
+	width: 50%
+	flex-direction: row-reverse;
+	flex-wrap: wrap;
+	margin: auto;
+	color:white;
+}
+
+.itens{
+	flex-basis: 33%
+	width: 200px;
+	background: black;
+	margin: 25px;
+	color: white;
+}
+
+.itens img{
+	margin: 10px;
+}
+
+header{
+background: black;
+color:white;
+}
+
+body{
+background-image: url(roxo.jpg);
+color:white;
+{
